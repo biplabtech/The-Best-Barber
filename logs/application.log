@@ -1,0 +1,7 @@
+2022-10-04 09:09:47.592  WARN 10276 --- [HikariPool-2 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=13h36m27s775ms367µs500ns).
+2022-10-04 09:26:35.851  INFO 10276 --- [RMI TCP Connection(500)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-10-04 09:26:35.873  INFO 10276 --- [RMI TCP Connection(500)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-10-04 09:26:35.874  INFO 10276 --- [RMI TCP Connection(500)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-10-04 09:26:35.892  INFO 10276 --- [RMI TCP Connection(500)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-10-04 09:26:35.900  INFO 10276 --- [RMI TCP Connection(500)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2022-10-04 09:26:35.904  INFO 10276 --- [RMI TCP Connection(500)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
